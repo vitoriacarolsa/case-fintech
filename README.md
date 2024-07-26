@@ -28,11 +28,3 @@
 
 ```
 
-
-### 🚧 Features
-
-- `Fazer o CRUD completo`.
-- `Utilizar Spring security para apenas usuários logados terem acesso aos Endpoints.`
-- `Obter mais informações do usuário, para fazer uma verificação mais rigorosa antes de deixar ele solicitar o empréstimo.`
-- `Adicionar outros tipos de exceções quando ter o CRUD completo.`
-- `Fazer testes unitários.`
